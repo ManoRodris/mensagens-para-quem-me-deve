@@ -1,0 +1,11 @@
+{
+  "token": "SEU_TOKEN_AQUI",
+  "refresh_token": "SEU_REFRESH_TOKEN",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "client_id": "SUA_CLIENT_ID_AQUI",
+  "client_secret": "SEU_CLIENT_SECRET_AQUI",
+  "scopes": [
+    "https://www.googleapis.com/auth/spreadsheets.readonly"
+  ],
+  "expiry": "2025-06-09T14:00:00Z"
+}

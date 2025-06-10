@@ -1,0 +1,11 @@
+Boa tarde [nome]!
+
+Essa é uma mensagem automática, minha fatura vence hoje e essas são as coisas que você me deve:
+
+[lista_dividas]
+
+Total: R$ [total]
+
+O pix é CPF
+
+0123456789
